@@ -1,4 +1,4 @@
-Frontend Mentor - NFT app solution
+- [Frontend Mentor] - NFT app solution
 This is a solution to the NFT  challenge on Frontend Mentor. 
 
 Table of contents
