@@ -1,48 +1,46 @@
-- [Frontend Mentor] - NFT app solution
-This is a solution to the NFT  challenge on Frontend Mentor. 
+# Frontend Mentor - NFT preview card component solution
 
-Table of contents
-Overview
-[The challenge](#Challege Name)
-Screenshot
-Links
-My process
-[Built with]
-Useful resources
-Author
+This is a solution to the [NFT preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
-Overview
-The challenge
+## Table of contents
+
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [Useful resources](#useful-resources)
+- [Author](#author)
+
+## Overview
+
+### The challenge
+
 Users should be able to:
 
-View the optimal layout for the app depending on their device's screen size
-See hover states for all interactive elements on the page
+- View the optimal layout depending on their device's screen size
+- See hover states for interactive elements
 
+### Screenshot
 
-Screenshot
+![](./screenshot.jpg)
 
+### Links
 
+- Solution URL: https://github.com/Artsia/NFT-phillip-version
+- Live Site URL:  https://nft-phillip-version.netlify.app/
 
-Links
-Solution URL:https://github.com/Artsia/NFT-phillip-version
-Live Site URL: https://nft-phillip-version.netlify.app/
+## My process
 
-My process
-Built with
-HTML5 markup
-CSS
-Flexbox
+### Built with
 
-Useful resources
-Resource - https://developer.mozilla.org/
-
-Author
-Frontend Mentor - @Artsia
+- HTML5 markup
+- CSS custom properties
+- Flexbox
 
 
 
+## Author
 
-
-
-
-
+- Frontend Mentor - [@Artsia](https://www.frontendmentor.io/profile/Artsia)
